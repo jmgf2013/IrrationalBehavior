@@ -26,7 +26,7 @@ some researches that Dan conducted with Klaus Wertenbroch. This study basically 
 It doesn't really matter who sets the deadlines, just that they're evenly spaced. 
 So, bottom line, in the face of self-control problems like procrastination, smart deadlines help. 
 
-#Sponge or Roomba#
+#passive sponge or active roomba#
 
 Survey on students.
 
