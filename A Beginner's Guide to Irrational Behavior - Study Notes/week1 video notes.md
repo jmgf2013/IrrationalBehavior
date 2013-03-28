@@ -25,6 +25,7 @@ How people aggregate information over time.
 1. duration vs. intensity
   * an experience twice as long is not twice as painful
   * short, intense pain is worse than longer, milder pain
+  
 > comment: [The boiling frog story](http://en.wikipedia.org/wiki/Boiling_frog)
 2. progression over time
   * It is better to start with higher pain and end with lower pain
