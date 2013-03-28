@@ -23,16 +23,16 @@ How people aggregate information over time.
 ###Experiments by Prof. Dan
 
 1. duration vs. intensity
-* an experience twice as long is not twice as painful
-* short, intense pain is worse than longer, milder pain
+  * an experience twice as long is not twice as painful
+  * short, intense pain is worse than longer, milder pain
 
 > comment: [The boiling frog story](http://en.wikipedia.org/wiki/Boiling_frog)
 
 2. progression over time
-* It is better to start with higher pain and end with lower pain
+  * It is better to start with higher pain and end with lower pain
 
 3. recuperation
-* allow breaks for recovery
+  * allow breaks for recovery
 
 ###Conclusions
 Nurses followed their intuitions at the cost of their patients' comfort.
